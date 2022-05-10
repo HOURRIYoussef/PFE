@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MasjidFirst</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="mosquées_array">
+        <item>Mosquée AL-IKHWA</item>
+        <item>Mosquée AMAZOUJ</item>
+        <item>Mosquée MOULAY ALI ECHRIF</item>
+    </string-array>
+
+    <string-array name="salat_array">
+        <item>Salat ASOBH</item>
+        <item>Salat ADOHR</item>
+        <item>Salat AL-ASER</item>
+        <item>Salat Al-MAGHRIB</item>
+        <item>Salat AL-ICHAE</item>
+    </string-array>
+
+    <string-array name="nombre_places_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

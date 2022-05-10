@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "578824332425",
+    "project_id": "masjidfirst",
+    "storage_bucket": "masjidfirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578824332425:android:ec0ede32badb1ef1a95258",
+        "android_client_info": {
+          "package_name": "com.example.masjidfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578824332425-vefkmj4991u93sg310f4ton0pg9o8fpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuMML0_e5l14nd0YWOJkWnkuljmUu-oSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578824332425-vefkmj4991u93sg310f4ton0pg9o8fpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }  ],
+  "configuration_version": "1"
+}
